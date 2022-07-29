@@ -29,6 +29,7 @@ function checkForm() {
       </div>
       <div class="input-group mb-3">  
         <button type="submit" class="btn btn-primary w-100">Submit</button>
+        <router-link to="/">Go to Home</router-link>
       </div>
     </form>
   </div>
